@@ -1,0 +1,46 @@
+ ==> What is Bootstrap?
+           Bootstrap is free, open-source, and is the most popular HTML, CSS, and JavaScript framework
+           developed by Twitter for creating responsive web applications.
+           
+           It can be used to create a web application built with any server-side technologies like ASP.NET
+           ,JAVA, PHP etc.
+
+        ==>Why use Bootstrap?
+           -Mobile-first approach:-
+            The framework consists of mobile-first styles throughout the entire library instead of
+            in separate files.
+
+           -Browser Support:-
+            It is supported by all popular browsers.
+
+           -Easy to get started:-
+            With just the knowledge of HTML and CSS anyone can get started with Bootstrap.
+
+           -Responsive Dsign:-
+            Bootstrap's responsive CSS adjust to Desktops, Tablets and Mobiles.
+
+        ==>What Bootstrap Package Includes?
+           -JavaScript Plugins:-
+            Bootstrap contains a variety of custmized jQuery plugins. We can include them all,
+            or one by one.
+
+           -Customize:-
+           - We can custmize Bootstrap components and jQuery plugins to get your very own version.
+
+           -Download Bootstrap:-
+           -You can Download the latest version of Bootstrap from http://getbootstrap.com/
+
+           -Original source files are include as listed below:-
+            jquery.js
+            Bootstrap.min.css
+            Bootstrap.js
+            
+            Example:-
+            <script type="/text/javascript" src="js/jquery-3.1.1.js"></script>
+            <script type="/text/javascript" src="lib/bootstrap/js/bootstrap.js"></script>
+            <link rel="stylesheet" href="lib/bootstrap/css/bootstrap.css">
+
+        ==>Containers
+           .container class:- used for a responsive fixed-width.
+
+           .container-fluid:- used for a full-width container.
